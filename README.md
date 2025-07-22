@@ -35,5 +35,8 @@ Access to the live Zoom sessions requires registration.
  * "Structural and Optical Properties of GeSe Monochalcogenide from Quantum Monte Carlo Simulations", Hyeondeok Shin. [Presentation PDF](https://github.com/QMCPACK/qmc_summer_school_2025/blob/master/session6_real-world_calculations/GeSe/QMC_workshop_2025_GeSe.pdf). [Recorded video presentation on YouTube](https://youtu.be/GEm4D6IBW9Y).
  * "2D Materials Calculations", Kayahan Saritas [Presentation PDF](https://github.com/QMCPACK/qmc_summer_school_2025/blob/master/session6_real-world_calculations/hBN/session6-2D_hBN.pdf). [Recorded video presentation on YouTube](https://youtu.be/wK1YYJXlz5M).
 ## Session 7 / Tuesday July 22 / 11 am Eastern US time : Running on GPUs, Surrogate Hessian Geometry Optimization with STALK, School Wrap-Up
- * Speakers: Juha Tiihonen, Ye Luo, Paul Kent
+ * Speakers: Ye Luo, Juha Tiihonen, Paul Kent
+ * "QMCPACK GPU Support", Ye Luo [Presentation PDF](https://github.com/QMCPACK/qmc_summer_school_2025/blob/master/session7_using_gpus/session7_gpu_usage.pdf). [Recorded video presentation on YouTube](https://youtu.be/Ir2X1ffhzTE).
+ * "Relaxation of atomic structures with STALK", Juha Tiihonen [Presentation PDF](https://github.com/QMCPACK/qmc_summer_school_2025/blob/master/session7_stalk/session7_stalk.pdf). [Recorded video presentation on YouTube](https://youtu.be/L1ZmujOv5S4).
+ * "Next steps / Ongoing Support", Paul Kent [Presentation PDF](https://github.com/QMCPACK/qmc_summer_school_2025/blob/master/session7_ongoing_support/session7_next_steps.pdf).
 ## Session 8 / Thursday July 24 / 11 am Eastern US time: Backup Session. Only if needed.

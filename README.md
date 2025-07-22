@@ -39,4 +39,4 @@ Access to the live Zoom sessions requires registration.
  * "QMCPACK GPU Support", Ye Luo [Presentation PDF](https://github.com/QMCPACK/qmc_summer_school_2025/blob/master/session7_using_gpus/session7_gpu_usage.pdf). [Recorded video presentation on YouTube](https://youtu.be/Ir2X1ffhzTE).
  * "Relaxation of atomic structures with STALK", Juha Tiihonen [Presentation PDF](https://github.com/QMCPACK/qmc_summer_school_2025/blob/master/session7_stalk/session7_stalk.pdf). [Recorded video presentation on YouTube](https://youtu.be/L1ZmujOv5S4).
  * "Next steps / Ongoing Support", Paul Kent [Presentation PDF](https://github.com/QMCPACK/qmc_summer_school_2025/blob/master/session7_ongoing_support/session7_next_steps.pdf).
-## Session 8 / Thursday July 24 / 11 am Eastern US time: Backup Session. Only if needed.
+

@@ -16,6 +16,7 @@ understand under-the-hood operations of the STALK code.
 ```
     cd 00_morse_analysis/
     python3 plot_figures.py
+    python3 plot_pes.py
 ```
 
 Feel free to try out different parameters for the data and plots.
@@ -43,7 +44,8 @@ are cascaded through imports and diagnostic printouts and plots are omitted.
     * Hint: Make copies of `run0_relax.py` and `run1_hessian.py` and make necessary edits.
 1. Set up yet another SCF PES (e.g. LDA) and perform line-search iteration with it, using PBE as a surrogate.
     * Hint: Make a copy of `run3_ls_b3lyp.py` and edit necessary parts there and in `params.py`. Shifting the structure and comparison to "exact" reference are not mandatory.
-1. Reoptimize the surrogate model and observe statistical cost
+    * Bonus: Try setting `add_sigma=False` to see how the new PES (fitting bias included) really compares. In addition, you may eliminate bias by reoptimizing the surrogate to a lower tolerance.
+1. Reoptimize the surrogate model and observe the statistical cost
     * In python console: `from run2_surrogate import surrogate`
     * Run `surrogate.optimize(epsilon_p=[x, x], M=y)` where x is a chosen tolerance and 3 < y < 11 is the number of grid points
     * Observe the estimated statistical cost with `surrogate.statistical_cost`.
